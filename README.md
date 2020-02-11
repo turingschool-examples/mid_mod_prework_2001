@@ -1,3 +1,8 @@
+## Setup
+
+* Create a _local_ project directory
+* Complete the iterations below **before** your scheduled mid-mod time!
+
 ## Iteration 1
 
 Use TDD to create a `Student` class that responds to the following interaction pattern:
